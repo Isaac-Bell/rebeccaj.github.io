@@ -14,3 +14,13 @@ h1  {
 p  {
     font-size: 20pt;
 }
+
+.red-text {
+    color: blue
+}
+
+#knees {
+    font-stretch: ultra-expanded;
+    color: red
+}
+
