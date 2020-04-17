@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(43, 226, 217);
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
+
+
+h1  {
+    font-size: 50pt;
+    margin-bottom: 300pt;
+    margin-top: 300pt;
+}
+
+p  {
+    font-size: 20pt;
+}
